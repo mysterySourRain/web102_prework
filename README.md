@@ -36,8 +36,7 @@ GIF created with chrome capture
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-Identifying the id and selector of specified elements.
+Identifying the id and selector of specified elements was challenging.
 
 ## License
 
